@@ -1,0 +1,25 @@
+.a{
+    color: rgb(14, 12, 49);
+    font-weight: 700;
+}
+
+.b{
+    color: rgb(14, 12, 49);
+    font-weight: bold;
+    margin-left: 70px;
+    
+}
+
+.b:hover{
+    color: rgb(35, 33, 74);
+    font-weight:600
+}
+
+.img:hover{
+    height: 240px;
+}
+
+.cardd{
+    background-color: yellow;
+}
+
