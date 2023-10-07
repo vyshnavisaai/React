@@ -1,0 +1,17 @@
+#ecards{
+    width: 35rem;
+    margin-left: 45px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#btnshop{
+    background-color: white;
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+    width: 120px;
+    height: 35px;
+    border-radius: 0px;
+    border-color: black;
+}
