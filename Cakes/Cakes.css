@@ -1,0 +1,116 @@
+.navlink {
+  color: #7a0c0f;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  margin-left: 50px;
+}
+
+.navlink:hover {
+  color: #7a0c0f;
+  text-decoration: underline;
+}
+
+#logo {
+  font-size: 60px;
+  color: #7a0c0f;
+}
+
+#sec2 {
+  text-align: center;
+  align-content: end;
+  width: 100%;
+}
+#sec1 {
+  display: flex;
+}
+#intro1 {
+  margin-top: 150px;
+  color: #7a0c0f;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#intro2 {
+  margin-top: 30px;
+  color: #b43639;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#intro3 {
+  margin-top: 10px;
+  background-color: #7a0c0f;
+  border: 0;
+}
+
+.head1 {
+  color: #7a0c0f;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 80px;
+  font-family: "Courier New", Courier, monospace;
+}
+.cardimg {
+  height: 250px;
+}
+
+.card {
+  margin-left: 22px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.taste {
+  background-color: #7a0c0f;
+  border-width: 0px;
+  border-color: white;
+}
+.taste:active:focus {
+  background-color: #7a0c0f;
+  border-color: #7a0c0f;
+}
+
+Button {
+  background-color: #7a0c0f;
+}
+
+.taste:hover {
+  background-color: white;
+  color: #7a0c0f;
+  border-width: 2px;
+  border-color: #7a0c0f;
+}
+
+#carimg {
+  height: 500px;
+  width: 700;
+  margin-top: 50px;
+}
+
+#carcap {
+  color: white;
+  height: 70px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-color: #7a0c0f;
+}
+
+#cap {
+  font-size: 30px;
+}
+
+.sm {
+  font-size: 20px;
+  color: #7a0c0f;
+}
+
+#logo2 {
+  font-size: 60px;
+  color: #7a0c0f;
+}
+
+#head3 {
+  color: #7a0c0f;
+  font-family: "Courier New", Courier, monospace;
+}
