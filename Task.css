@@ -1,0 +1,27 @@
+#section1{
+    text-align: center;
+    width: 350px;
+    }
+
+#nav{
+    margin-left: 490px;
+    font-size: 25px;
+}
+
+.link{
+    color: rgb(103, 23, 23);
+}
+
+h1{
+    color: rgb(134, 8, 8);
+}
+
+p{
+    color: rgb(188, 74, 74);
+}
+
+#button{
+    color: white;
+    background-color: rgb(134, 8, 8);
+    border-width: 0px;
+}
