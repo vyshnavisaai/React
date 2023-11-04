@@ -14,8 +14,8 @@ function Task3() {
   return (
     <div id='body'>
       <center>
-        <div id='section1'>
-          
+      <h1 style={{fontSize:50}}>Fruits</h1>
+        <div id='section1'>          
         {Fruit.map((map1)=>{
             return(
             <>
