@@ -11,20 +11,21 @@ function Task5() {
     }
   return (
     <div>
-        <Table style={{width:'700px'}} striped bordered hover>
+      <center>
+        <h1>Fruits</h1>
+        <Table id='table' style={{width:'700px'}} striped bordered hover>
       <thead>
-        {/* <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr> */}
+        <tr>
+          <th>Fruit</th>
+          <th>Image</th>
+          <th>Definition</th>
+        </tr>
       </thead>
       <tbody>
         {Fruit.map((map3)=>
         <tr>
           <td style={{fontWeight:'bold'}}>{map3.fruit}</td>
-          <td><Image src={map3.Image} height={100}/></td>
+          <td><Image src={map3.Image} height={130} width={190}/></td>
           <td>{map3.def}</td>
         </tr>
         )}
@@ -32,6 +33,7 @@ function Task5() {
       
     </Table>
     <Button id='button' onClick={back}>Back</Button>
+    </center>
     </div>
   )
 }
