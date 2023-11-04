@@ -11,9 +11,10 @@ function Task4() {
     }
   return (
     <div>
-    <div style={{display:'flex'}}>
+      <center><h1>Fruits</h1></center>
+    <div style={{display:'flex',flexWrap:'wrap'}}>
         {Fruit.map((map2)=>
-        <Card style={{ width: '18rem' }}>
+        <Card id='card' style={{ width: '18rem' }}>
       <Card.Img variant="top" height={220} src={map2.Image} />
       <Card.Body>
         <Card.Title>{map2.fruit}</Card.Title>
