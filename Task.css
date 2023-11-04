@@ -25,3 +25,29 @@ p{
     background-color: rgb(134, 8, 8);
     border-width: 0px;
 }
+
+#bodyy{
+    background-color: black;
+}
+
+#card{
+    margin: 50px;
+}
+
+#table{
+    margin: 50px;
+}
+
+#li{
+    color: rgb(134, 8, 8);
+    text-decoration: none;
+    font-size: 25px;
+    text-align: left;
+    margin: 400px;
+}
+
+#li2{
+    color: rgb(134, 8, 8);
+    text-decoration: underline;
+    font-size: 30px;
+}
