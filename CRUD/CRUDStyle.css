@@ -1,0 +1,75 @@
+#table{
+    border-radius: 30px;
+    border: 1;
+    width: 700px;
+    margin-top: 20px;
+}
+
+#headingcrud{
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+#tablediv{
+    background-color: rgb(186, 145, 224);
+    width: 800px;
+    border-radius: 30px;
+}
+
+#th{
+    text-align: center;
+    color:rgb(99, 42, 152);
+}
+
+#td{
+    color: rgb(90, 46, 132);
+}
+
+#icon1{
+    color:green ;
+    font-size: 25px
+}
+#icon2{
+    color: red;
+    font-size: 25px;
+}
+
+#icon3{
+    color: orange;
+    font-size: 25px;
+}
+
+#icon4{
+    color: rgb(10, 10, 116);
+    font-size: 25px;
+}
+#bodycrud{
+    background-color: rgb(208, 177, 238);
+    height: 100vh;   
+}
+
+
+#addtable{
+    width: 500px;
+    background-color: rgb(186, 145, 224);
+    border-radius: 30px;
+}
+
+#save{
+    background-color: white;
+    color:rgb(186, 145, 224);
+    font-weight: bold;
+    border-width: 0px;
+}
+
+#label{
+    color: white;
+    font-size: 20px;
+}
+#back{
+    background-color: white;
+    color:rgb(186, 145, 224);
+    font-weight: bold;
+    border-width: 0px;
+}
