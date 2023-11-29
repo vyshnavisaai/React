@@ -1,0 +1,26 @@
+#section4{
+    width: 40%;
+    margin: 20px;
+}
+
+#new{
+    margin-top: 0px;
+    background-image: url("C:\Users\vyshn_dy6zpym\OneDrive\Desktop\Futura\react\my-app\public\fl66.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+
+}
+
+#new2{
+    display: flex;
+}
+#logo2{
+    
+    text-align: center;
+}
+
+#best{
+    text-align: left;
+    margin-top: 130px;
+}

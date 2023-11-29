@@ -1,0 +1,76 @@
+#fnav{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F8F9FA;
+}
+
+#flogo{
+    height: 40px;
+}
+
+#search{
+    width: 500px;
+    border-width: 0px;
+    background-color: #f0eded;
+    height: 40px;
+    
+}
+
+#dropdown-basic{
+    margin-top: 8px;
+    color: black;
+}
+#dropdown-basic:hover{
+    margin-top: 8px;
+    color: black;
+    background-color: #116DFC;
+}
+
+.navicon{
+    font-size: 20px;
+    margin-top: 1px;
+    margin-right: 8px;
+    color: black;
+}
+
+.navicon2{
+    font-size: 15px;
+    margin-top: 11px;
+    margin-left: 30px;
+}
+.navitem{
+    background-color: #F8F9FA;
+    color: black;
+    border-width: 0px;
+}
+
+.navitem:hover{
+    background-color: #F8F9FA;
+    color: black;
+    border-width: 0px;
+}
+
+#navselect{
+    margin-left: 1px;
+}
+
+#dropdown-basic{
+    background-color: #F8F9FA;
+    border-width: 0px;
+}
+
+#card{
+    margin:10px ;
+    height: 50px;
+    border-width: 0px;
+}
+
+#text{
+    font-size: 11px;
+    font-weight: bold;
+}
+
+#cards{
+
+    background-color: white;
+    border-width: 1px;
+}
