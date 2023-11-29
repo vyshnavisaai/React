@@ -1,0 +1,116 @@
+.main{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #E7CCA4;
+    margin: 0px;
+    background-position: 0px;
+    margin: 0px;
+}
+
+.maindark{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#3b2118;
+    margin: 0px;
+    background-position: 0px;
+    margin: 0px;
+}
+
+#product{
+    margin-bottom: 30px;
+    font: 40px;
+    color: #4A2A1E;
+    text-align: center;
+}
+
+#productdark{
+    margin-bottom: 30px;
+    font: 40px;
+    color: #CAAC80;
+    text-align: center;
+}
+
+#card9{
+    margin-top: 100px;
+    background-color:#FAE8D0;
+    margin-bottom: 50px;
+    border-radius: 0px;
+    color: #3b2118;
+}
+
+
+#card9dark{
+        margin-top: 100px;
+        background-color:#4A2A1E;
+        margin-bottom: 50px;
+        border-radius: 0px;
+        color:#CAAC80 ;
+    }
+
+
+#button9{
+    background-color: #FAE8D0;
+    border-color: #4A2A1E;
+    color: #4A2A1E;
+    border-radius: 20px;
+    width: 150px;
+}
+
+#button9dark{
+    background-color:#3b2118;
+    border-color: #CAAC80;
+    color:#CAAC80;
+    border-radius: 20px;
+    width: 150px;
+}
+
+
+.main2{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #CAAC80;
+    margin: 0px;
+    background-position: 0px;
+    margin: 0px; 
+}
+
+.main2dark{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#4A2A1E ;
+    margin: 0px;
+    background-position: 0px;
+    margin: 0px;
+}
+
+.foot{
+    margin-left: 150px;
+    margin-top: 100px;
+    color: #FAE8D0;
+}
+
+.footdark{
+    margin-left: 150px;
+    margin-top: 100px;
+    color: #CAAC80;
+}
+
+#darklight{
+    width: 40px;
+    height: 40px;
+    background-color:#3b2118;
+    border-width: 0px;
+    margin: 30px;
+    color: #CAAC84;
+}
+
+#darklight2{
+    width: 40px;
+    height: 40px;
+    background-color:#CAAC84;
+    border-width: 0px;
+    margin: 30px;
+    color:#3b2118;
+}
+
+
+.soc{
+    font-size: 35px;
+    margin-left: 15px;
+}
